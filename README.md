@@ -11,3 +11,6 @@ Step 4: Setup database in .env file
 
 Step 5: Generate new key using this command
 `php artisan key:generate`
+
+Step 6: Finally start server
+`php artisan serve`
