@@ -1,6 +1,6 @@
 ## Install AdminLTE in laravel 8
 
-Step 1: Clone repository using git clone git@github.com:ckpanchal/adminlte-l8.git
+Step 1: Clone repository using `git clone git@github.com:ckpanchal/adminlte-l8.git`
 
 Step 2: Run `composer install` command to install all dependency packages
 
