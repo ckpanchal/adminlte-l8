@@ -9,6 +9,8 @@ Step 3: Copy .env.example to .env using this command.
 
 Step 4: Setup database in .env file
 
+Step 5: Run `php artisan migrate` to generate database tables from migrations
+
 Step 5: Generate new key using this command
 `php artisan key:generate`
 
