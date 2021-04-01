@@ -11,8 +11,8 @@ Step 4: Setup database in .env file
 
 Step 5: Run `php artisan migrate` to generate database tables from migrations
 
-Step 5: Generate new key using this command
+Step 6: Generate new key using this command
 `php artisan key:generate`
 
-Step 6: Finally start server
+Step 7: Finally start server
 `php artisan serve`
